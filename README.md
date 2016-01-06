@@ -1,4 +1,5 @@
 === Grid View Gallery ===
+
 Contributors: CIS
 Donate link: http://cisin.com/
 Tags: colorbox, custom popup, display, exit lightbox, fancybox, gallery lightbox, image lightbox, image popup, Image Rotator, jquery popup, light box, lightbox, lightbox gallery, lightbox image, lightbox photo, lightbox pop, lightbox popup, Lightbox slider, lightbox youtube, lightview, on click popup, onclick popup, open image, photo, photos, plugin for gallery, pop-up, popup, popup bar, popup box, popup image, popup images, popup lightbox, popup photo, popup video, popup window, popups, quick popup, responsive lightbox, Responsive Popup, shadowbox, simple popup, slideshow, slideshow lightbox, slimbox, style lightbox, thickbox, video lightbox, video popup, vimeo, vimeo link, vimeo player, wordpress image lightbox, wordpress lightbox, wordpress popup, wordpress slideshow lightbox, wordpress youtube, WP Lightbox, youtube, youtube player, gallery, wordpress gallery
