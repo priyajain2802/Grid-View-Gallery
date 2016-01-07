@@ -251,7 +251,7 @@ function CISCustomSliderShortCodeDetect() {
              */
 				wp_enqueue_script('jquery');
 				wp_enqueue_script('wl-cs-hover-pack-js',CIS_CS_PLUGIN_URL.'js/hover-pack.js', array('jquery'));
-				//wp_enqueue_script('wl-lbs-bootstrap-js',CIS_LBS_PLUGIN_URL.'js/bootstrap.min.js', array('jquery'));
+				wp_enqueue_script('wl-lbs-bootstrap-js',CIS_CS_PLUGIN_URL.'js/bootstrap.min.js', array('jquery'));
 				wp_enqueue_script('wl-cs-lightbox',CIS_CS_PLUGIN_URL.'js/lightbox-2.6.min.js', array('jquery'));
 
             /**
