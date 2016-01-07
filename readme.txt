@@ -99,4 +99,4 @@ Please contribute to translate our plugin.  Contact at `contact (at) weblizar (d
 
 == Frequently Asked Questions ==
 
-Please use WordPress [support forum](http://wordpress.org/support/plugin/custom-sliders) to ask any query regarding any issue.
+Please use WordPress [support forum](https://wordpress.org/plugins/grid-view-gallery/) to ask any query regarding any issue.
