@@ -109,3 +109,4 @@ It is really hard to continue development and support for this free plugin witho
 == Frequently Asked Questions ==
 
 Please use WordPress [support forum](https://wordpress.org/plugins/grid-view-gallery/) to ask any query regarding any issue.
+
