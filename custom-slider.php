@@ -83,6 +83,7 @@ add_action( 'init', 'CS_CPT_Function', 0 );
 /**
  * Add Meta Box & load required CSS and JS for interface
  */
+
 add_action('admin_init','Custom_Slider_init');
 function Custom_Slider_init() {
     add_meta_box('Custom_Slider_meta', __('Add New Images', CIS_CS_TEXT_DOMAIN), 'custom_slider_function', 'custom-slider', 'normal', 'high');
@@ -237,7 +238,7 @@ function custom_box_meta_save() {
 
 /**
  * Plugin never load plugin CSS & JS files with all theme pages.
- * CSS & JS files only load on required pages where you use or embed [LBS] shortcode.
+ * CSS & JS files only load on required pages where you use or embed [CS] shortcode.
  */
 function CISCustomSliderShortCodeDetect() {
     global $wp_query;
@@ -251,7 +252,7 @@ function CISCustomSliderShortCodeDetect() {
              */
 				wp_enqueue_script('jquery');
 				wp_enqueue_script('wl-cs-hover-pack-js',CIS_CS_PLUGIN_URL.'js/hover-pack.js', array('jquery'));
-				//wp_enqueue_script('wl-lbs-bootstrap-js',CIS_LBS_PLUGIN_URL.'js/bootstrap.min.js', array('jquery'));
+				wp_enqueue_script('wl-cs-bootstrap-js',CIS_CS_PLUGIN_URL.'js/bootstrap.min.js', array('jquery'));
 				wp_enqueue_script('wl-cs-lightbox',CIS_CS_PLUGIN_URL.'js/lightbox-2.6.min.js', array('jquery'));
 
             /**
