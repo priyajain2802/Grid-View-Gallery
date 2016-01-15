@@ -1,10 +1,10 @@
 === Grid View Gallery ===
 
-Contributors: CIS
+Contributors: Priya
 
 Donate link: http://cisin.com/
 
-Tags: custom popup, display, exit lightbox, wordpress popup, wordpress slideshow lightbox, wordpress gallery, custom image grid view, custom meta fields, hover animation effects.  
+Tags: grid view gallery, multiple images meta fields, custom popup, display, exit lightbox, wordpress popup, wordpress slideshow lightbox, wordpress gallery, custom image grid view, custom meta fields, hover animation effects.  
 
 Requires at least: 3.5
 
@@ -23,7 +23,7 @@ Grid View Slider is based on bootstrap framework. Allow to add and create unlimi
 
 This plugin focused on ease of integration, ease of use, and extensibility. It is deliberately powerful yet unbelievably simple gallery.
 
-Users can customize galleries easiy it would just required to use custom post type meta fields. 
+Users can customize galleries easily it would just required to use custom post type meta fields. 
 
 Using **[CS id=xx]** shortcode, you can publish grid view photo gallery into any Page or Post on your WordPress sites.
 
@@ -104,9 +104,3 @@ Starter version no upgrade is required.
 = We Need Your Support =
 
 It is really hard to continue development and support for this free plugin without contributions from users like you. If you are enjoying using our Lightbox Slider plugin and find it useful, then please consider [__Making a Donation__](http://www.cisin.com). Your donation will help us to encourage and support the plugin's continued development and better user support.
-
-
-== Frequently Asked Questions ==
-
-Please use WordPress [support forum](https://wordpress.org/plugins/grid-view-gallery/) to ask any query regarding any issue.
-
